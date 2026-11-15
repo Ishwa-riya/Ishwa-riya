@@ -1,128 +1,135 @@
-👩‍💻 ISHWARIYA M ✨
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Ishwa-riya&label=PROFILE+VIEWS&color=ff69b4&style=flat-square" />
-</p>
+<div align="center">
 
-📊 GitHub Statistics
+# 👋 Hi, I'm Ishwariya M
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ishwa-riya&show_icons=true&theme=radical&hide_border=true&title_color=ff69b4&icon_color=ff69b4" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ishwa-riya&theme=radical&hide_border=true" />
-</p>
+### 💻 Software Engineer | Full Stack Developer
 
-💪 Skills
+Python • Java • JavaScript • React • Data Analytics • Machine Learning
 
-💻 Programming Languages
+[![GitHub](https://img.shields.io/badge/GitHub-Ishwa--riya-black?style=for-the-badge&logo=github)](https://github.com/Ishwa-riya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ishwariya-m-03b6772a8)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:ishuzzishu5@gmail.com)
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-</p>
+</div>
 
-🌐 Web Development
+---
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge" />
-</p>
+## 👩‍💻 About Me
 
-📈 Data Analytics & Machine Learning
+- 🎓 B.E. Computer Science and Engineering
+- 💡 Interested in Full Stack Development and Machine Learning
+- 🏆 MINiT-ATHON'25 Hackathon Finalist
+- 📊 CGPA: 8.53/10
+- 🌱 Always learning new technologies.
 
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-</p>
+---
 
-🗄️ Databases
+## 🧰 Technical Skills
 
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" />
-</p>
+**Programming Languages**
 
-🔧 Tools
+![Python](https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Code-Java-orange?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-blue?style=for-the-badge&logo=typescript)
+![C](https://img.shields.io/badge/Code-C-blue?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/Code-C++-blue?style=for-the-badge&logo=cplusplus)
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+**Web Development**
 
-🚀 Featured Projects
+![React](https://img.shields.io/badge/Framework-React-61DAFB?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/Web-HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/Web-CSS3-blue?style=for-the-badge&logo=css3)
 
-Project
+**Data Analytics & Machine Learning**
 
-Description
+![Pandas](https://img.shields.io/badge/Data-Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/Data-NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit Learn](https://img.shields.io/badge/ML-Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn)
+![Power BI](https://img.shields.io/badge/Analytics-PowerBI-yellow?style=for-the-badge&logo=powerbi)
 
-🤖 Fake Job Detection
+**Databases**
 
-ML and NLP-based fraud detection with 91% accuracy
+![MySQL](https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mysql)
+![SQLite](https://img.shields.io/badge/Database-SQLite-003B57?style=for-the-badge&logo=sqlite)
 
-🤟 Sign Language Translation
+**Tools**
 
-Real-time gesture recognition using OpenCV and MediaPipe
+![Git](https://img.shields.io/badge/Tools-Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/Tools-GitHub-black?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/Tools-VSCode-blue?style=for-the-badge&logo=visualstudiocode)
 
-🏦 Mini Banking System
+---
 
-CLI banking application with transaction management
+## 🚀 Featured Projects
 
-📊 COVID-19 Dashboard
+- 🤖 **Fake Job Detection System** – ML-based job fraud detection with 91% accuracy.
+- 🤟 **Sign Language Translation** – Real-time gesture-to-text using OpenCV and MediaPipe.
+- 🏦 **Mini Banking System** – Banking application with transaction management.
+- 📊 **COVID-19 Dashboard** – Data visualization across 50+ countries.
 
-Global case and vaccination data visualization
+[Explore My Repositories](https://github.com/Ishwa-riya?tab=repositories)
 
-💼 Experience
+---
 
-Software Development – SantoGe Technologies
+## 📝 Latest Blog Posts
 
-Full Stack Development – NoviTech R&D
+- More articles coming soon!
 
-Data Analytics – Deloitte
+---
 
-Machine Learning – NoviTech R&D
+## 📈 GitHub Stats
 
-AWS Technical Essentials
+<div align="center">
 
-🎓 Education & Achievements
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ishwa-riya&show_icons=true&theme=tokyonight&hide_border=true" />
 
-🎓 B.E. Computer Science – CGPA 8.53/10
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishwa-riya&layout=compact&theme=tokyonight&hide_border=true" />
 
-🏆 MINiT-ATHON'25 Hackathon Finalist
+<img src="https://streak-stats.demolab.com?user=Ishwa-riya&theme=tokyonight&hide_border=true" />
 
-📜 AWS Technical Essentials
+</div>
 
-📜 Cybersecurity Analyst Job Simulation – TCS
+---
 
-📜 UI/UX Design – NoviTech R&D
+## 🎓 Education & Experience
 
-📫 Connect With Me
+**B.E. Computer Science and Engineering**
 
-<p>
-  <a href="https://www.linkedin.com/in/ishwariya-m-03b6772a8">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ishuzzishu5@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Ishwa-riya">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+Arunachala College of Engineering for Women
 
-<p align="center">
-  <b>✨ Code • Create • Innovate • Repeat ✨</b>
-</p>
+CGPA: 8.53/10 | Graduation: 2026
 
-<p align="center">
-  Thanks for visiting my GitHub profile! 💖
-</p>
+**Internships & Training**
+- SantoGe Technologies
+- NoviTech R&D Pvt. Ltd.
+- Deloitte
+- AWS Technical Essentials
+- TCS Cybersecurity Job Simulation
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Ishwa-riya)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ishwariya-m-03b6772a8)
+
+[![Email](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:ishuzzishu5@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ishwa-riya&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Thanks for visiting my profile!
+
+**Keep Learning | Keep Building | Keep Growing 🚀**
+
+</div>
